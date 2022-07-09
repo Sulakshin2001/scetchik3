@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scetchik3/static/css/main.1a16a256.css",
+    "main.js": "/scetchik3/static/js/main.88cfab04.js",
+    "static/js/787.682fe618.chunk.js": "/scetchik3/static/js/787.682fe618.chunk.js",
+    "index.html": "/scetchik3/index.html",
+    "main.1a16a256.css.map": "/scetchik3/static/css/main.1a16a256.css.map",
+    "main.88cfab04.js.map": "/scetchik3/static/js/main.88cfab04.js.map",
+    "787.682fe618.chunk.js.map": "/scetchik3/static/js/787.682fe618.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a16a256.css",
+    "static/js/main.88cfab04.js"
+  ]
+}
